@@ -26,7 +26,7 @@ Instructions:
 
 Clone this repository.
 Install the required libraries using pip install numpy pandas seaborn matplotlib.
-Replace [your_data_file.csv] in the code with the actual path to your CSV file containing student result data.
+Replace [Expanded_data_with_more_features.csv] in the code with the actual path to your CSV file containing student result data.
 Run the script student_result_analysis.py (or your preferred script name).
 Output:
 
